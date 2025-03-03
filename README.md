@@ -1,4 +1,4 @@
-# ok
+# cappy
 
 - `model.py` contains all models
 - `train_model.py` runs models from `models.py`
